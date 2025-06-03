@@ -50,7 +50,7 @@ Each agent (square) contains a fixed-length "brain" — a list of directional ve
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/genetic-pathfinding-whg.git
+git clone https://github.com/inikola3/genetic-algorithm-pathfinding.git
 ```
 
 
