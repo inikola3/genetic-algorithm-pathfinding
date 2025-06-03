@@ -74,9 +74,7 @@ git clone https://github.com/inikola3/genetic-algorithm-pathfinding.git
 ```
 
 
----
 
-### 📌 SECTION 7: Screenshots
 
 
 ## 🖼️ Screenshots
